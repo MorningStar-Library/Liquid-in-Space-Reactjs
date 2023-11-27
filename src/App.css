@@ -1,0 +1,10 @@
+body{
+  font-family: 'Alatsi', sans-serif ;
+  margin: 0 ;
+  overflow: hidden ;
+  background: black ;
+}
+
+canvas {
+  width: 100% ;
+}
